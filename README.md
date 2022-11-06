@@ -52,7 +52,8 @@ npm start
 - Finally
 ![image](https://user-images.githubusercontent.com/107447818/200156847-5f8c87d6-bf5e-4db9-9ec7-fbae4767d86d.png)
 
-
+## Link of deployed App
+- [Note Taker app](https://notetaker0709.herokuapp.com/)
 
 ## License
 
